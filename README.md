@@ -22,7 +22,7 @@ The project was conducted in collaboration with Om Prakash and Sons, a retail bu
 - Supported managerial decision-making with data insights
 
 ## Author
-Mehul Sharma  
-B.Sc. (Hons.) Mathematics, Kirori Mal College  
+ Mehul Sharma  
+ B.Sc. (Hons) Mathematics, Kirori Mal College  
 
 
