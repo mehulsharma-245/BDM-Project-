@@ -23,6 +23,6 @@ The project was conducted in collaboration with Om Prakash and Sons, a retail bu
 
 ## Author
  Mehul Sharma  
- B.Sc. (Hons) Mathematics, Kirori Mal College  
+ B.Sc. (Hons) Mathematics, Kirori Mal College, University of Delhi
 
 
